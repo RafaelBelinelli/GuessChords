@@ -1,4 +1,4 @@
-# acordes
+# GuessChords
 
 A new Flutter project.
 
